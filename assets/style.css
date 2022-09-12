@@ -44,8 +44,32 @@ main h5{
    margin-left: 10%; 
 }
 p{
-    margin-top: 2%;
+    margin-top: 1%;
 }
+.list{
+    margin-left: 10%;
+    padding: 1%;
+}
+table{
+    border-spacing: 0;
+}
+.table{
+
+    margin-left: 10%;
+    border:5%;
+}
+thead{
+    background-color: #4ea1ff;
+    color: white;
+}
+.tablesec1{
+
+    background-color: aquamarine;
+}
+.item{
+    margin-left: 10%;
+}
+
 
 
 
