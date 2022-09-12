@@ -1,71 +1,23 @@
-
-*{
-
-margin:0;
-padding:0;
-box-sizing: border-box;
-
-}
-
-
-
 header{
-
-    background-image: url(../assets/img/pattern.png);
-    background-size: 15%;
-    background-color: #4EA0FF;
-
-
-
+    background-image: url(/assets/img/pattern.png);
+    background-size: 10%;
+    background-color:#4ea1ff;
 }
-
 
 header img{
 
+    margin:auto;
     width: 15%;
-    margin-left: 10%;
-    
+    margin-left:10%;
 
-
-
-
-}  
+}
 h1{
-    margin-left: 11%;
-    text-align: left;
+
+  width: 80%;
+  margin: auto; 
+  margin-top:2%; 
+
 }
-main{
-    text-align: center;
-}
-
-main span{
-
-    color: aqua;
-}
-main p{
-
-  text-align: left; 
-  margin-left: 10.5%;
-}
-main h6{
-
-    text-align: left;
-    margin-left: 10.5%;
-}
-.item{
-    margin-top:2%;
-    text-align: left;
-}
-
-main ul{
-
-    text-align: left;
-    margin-left: 11%;
-    margin-top: 2%;
-}
-     
-
-
 
 
 
