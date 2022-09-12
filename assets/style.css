@@ -52,11 +52,18 @@ p{
 }
 table{
     border-spacing: 0;
+    width: 100%;
+    table-layout: fixed;
+    text-align: left;
+    padding: 2%;
+    margin-left: 8%;
 }
+
+
+
 .table{
 
-    margin-left: 10%;
-    border:5%;
+   
 }
 thead{
     background-color: #4ea1ff;
@@ -64,16 +71,17 @@ thead{
 }
 .tablesec1{
 
-    background-color: aquamarine;
+    background-color:red;
 }
 .item{
     margin-left: 10%;
 }
 h4{
 
-    padding: 2%;
-    margin-left: 8%;
+    
     color:#c5c5c5;
+    padding:3%;
+    padding-left: 0;
     
 }
 .monitor{
@@ -81,6 +89,7 @@ h4{
    
     background-image: url(/assets/img/monitor.jpg);
     background-repeat: no-repeat;
+    background-size: 300px,300px;
    
   
 
@@ -91,6 +100,11 @@ h4{
     color: white;
     background-image: url(/assets/img/graph.jpg);
     background-repeat: no-repeat;
+
+}
+footer{
+
+   margin-left:10%;
 
 }
 
