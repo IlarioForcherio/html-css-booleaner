@@ -34,12 +34,21 @@ main h5{
     margin-left: 10%;
    
 }
-main h6{
+.data{
     color:#c5c5c5;
     text-align: left;
     margin-left: 10%;
     
 }
+.central{
+   margin-left: 10%; 
+}
+p{
+    margin-top: 2%;
+}
+
+
+
 
 
 
