@@ -11,7 +11,7 @@ box-sizing: border-box;
 
 header{
 
-    background-image:url(../assets/img/pattern.png);
+    background-image: url(../assets/img/pattern.png);
     background-size: 15%;
     background-color: #4EA0FF;
 
@@ -19,34 +19,46 @@ header{
 
 }
 
+
+header img{
+
+    width: 15%;
+    margin-left: 10%;
+    
+
+
+
+
+}  
 h1{
-
-   
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 11%;
+    text-align: left;
+}
+main{
+    text-align: center;
 }
 
-
-
-
-.scritta1{
-
-    display: inline;
-    margin-left: 20%;
-    margin-right: 20%;
-    
-   
-    
-
-}
-
-.scritta2{
+main span{
 
     color: aqua;
-    display: inline;
-    text-align:left;
-    margin-right:none;
+}
+main p{
+
+  text-align: left; 
+  margin-left: 11%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
     
 
 
-}
