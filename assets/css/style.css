@@ -5,7 +5,7 @@
 }
 header{
     background-image: url(/assets/img/pattern.png);
-    background-size: 10%;
+    background-size: 160px;
     background-color:#4ea1ff;
     
 }
@@ -14,7 +14,7 @@ header img{
 
     margin:auto;
     width: 170px;
-    margin-left:10%;
+    margin-left:120px;
     vertical-align: middle;
 
 }
